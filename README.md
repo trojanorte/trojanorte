@@ -7,12 +7,13 @@
 ---
 
 ## 🚀 Sobre Mim  
-Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela UFRN. Minha especialidade está em **Ciência de Dados, Pesquisa Operacional e Automação de Processos**. Atualmente, trabalho no **Tribunal de Justiça do RN**, aplicando minhas habilidades em **análise de dados e otimização de processos**.
+Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela **UFRN**. Minha especialidade está em **Ciência de Dados, Pesquisa Operacional e Automação de Processos**. Atualmente, trabalho no **Tribunal de Justiça do RN**, aplicando minhas habilidades em **análise de dados e otimização de processos**.
 
 🔭 **Atualmente focado em:** Desenvolvimento de dashboards e aplicações interativas usando **Streamlit, Power BI e Python**.  
 🌱 **Aprendendo mais sobre:** Machine Learning e análise de grandes volumes de dados.  
 
 ---
+
 ## ⚙️ **Linguagens e Tecnologias**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,selenium,git,github,html,css,js,sqlite,c,cpp" height="50"/>
@@ -20,8 +21,13 @@ Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela UFRN. 
 
 ---
 
-## 🏆 **Portifolio**
-🔹 **[Portfólio Pessoal](https://allysonaires.github.io/)**  
+## 🏆 **Portfólio**
+🔹 **Acesse meu portfólio pessoal:**  
+<div align="center">
+  <a href="https://allysonaires.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-PORTFOLIO-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -32,9 +38,6 @@ Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela UFRN. 
 🐙 **[GitHub](https://github.com/trojanorte)**  
 
 <div align="center">
-  <a href="https://allysonaires.github.io/">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-0078D4?style=for-the-badge" />
-  </a>
   <a href="mailto:allysonaires@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -45,4 +48,3 @@ Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela UFRN. 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
-
