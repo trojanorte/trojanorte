@@ -16,7 +16,7 @@ Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela **UFRN
 
 ## ⚙️ **Linguagens e Tecnologias**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,sql,python,selenium,git,github,html,css,js,sqlite,c,cpp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,selenium,sql,powerbi,git,github,html,css,js,sqlite,c,cpp" height="50"/>
 </div>
 
 ---
