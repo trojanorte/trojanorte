@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Sobre Mim
+## 🚀 Sobre Mim  
 Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela UFRN. Minha especialidade está em **Ciência de Dados, Pesquisa Operacional e Automação de Processos**. Atualmente, trabalho no **Tribunal de Justiça do RN**, aplicando minhas habilidades em **análise de dados e otimização de processos**.
 
 🔭 **Atualmente focado em:** Desenvolvimento de dashboards e aplicações interativas usando **Streamlit, Power BI e Python**.  
@@ -14,17 +14,9 @@ Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela UFRN. 
 
 ---
 
-## 🛠 **Linguagens e Tecnologias**
+## ⚙️ **Linguagens e Tecnologias**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,selenium,git,github,html,css,js,sqlite" />
-</div>
-
----
-
-## 📈 **Estatísticas do GitHub**
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trojanorte&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojanorte&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=python,selenium,git,github,html,css,js,sqlite" height="50"/>
 </div>
 
 ---
