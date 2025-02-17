@@ -26,7 +26,7 @@ Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela **UFRN
 ## 🏆 **Portfólio**
 🔹 **Acesse meu portfólio pessoal:**  
 <div align="center">
-  <a href="https://allysonaires.github.io/" target="_blank">
+  <a href="https://trojanorte.github.io/allysonaires.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/-PORTFOLIO-0078D4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
