@@ -17,10 +17,9 @@ Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela **UFRN
 ## ⚙️ **Linguagens e Tecnologias**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,selenium,git,github,html,css,js,sqlite,c,cpp" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Microsoft_Power_BI_Logo.svg" height="50" alt="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="50" alt="SQL"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-power-bi-1.svg" height="50" alt="Power BI"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="50" alt="SQL"/>
 </div>
-
 
 ---
 
