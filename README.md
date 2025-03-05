@@ -9,7 +9,7 @@
 ## 🚀 Sobre Mim  
 Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela **UFRN**. Minha especialidade está em **Ciência de Dados, Pesquisa Operacional e Automação de Processos**. Atualmente, trabalho no **Tribunal de Justiça do RN**, aplicando minhas habilidades em **análise de dados e otimização de processos**.
 
-🔭 **Atualmente focado em:** Desenvolvimento de dashboards e aplicações interativas usando **Streamlit, Power BI e Python**.  
+🔭 **Atualmente focado no desenvolvimento de dashboards interativos e aplicações de ciência de dados utilizando Python.** Explorando visualização de dados, automação e modelagem para criar soluções eficientes e intuitivas.
 🌱 **Aprendendo mais sobre:** Machine Learning e análise de grandes volumes de dados.  
 
 ---
