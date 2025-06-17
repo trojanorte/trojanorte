@@ -1,30 +1,43 @@
-# 👋 Olá! Eu sou Allyson Aires 
+# 👋 Bem-vindo! Eu sou Allyson Aires 
 
 🚀 **Engenheiro de Produção | Ciência de Dados | Pesquisa Operacional**  
 📊 **Análise de Dados | Otimização de Processos | Web Scraping**  
-📍 **Atualmente trabalhando no Tribunal de Justiça do RN**  
+📍 **Atualmente no Tribunal de Justiça do RN**
 
 ---
 
 ## 🚀 Sobre Mim  
-Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela **UFRN**. Minha especialidade está em **Ciência de Dados, Pesquisa Operacional e Automação de Processos**. Atualmente, trabalho no **Tribunal de Justiça do RN**, aplicando minhas habilidades em **análise de dados e otimização de processos**.
 
-🔭 **Atualmente focado no desenvolvimento de dashboards interativos e aplicações de ciência de dados utilizando Python.** Explorando visualização de dados, automação e modelagem para criar soluções eficientes e intuitivas.
-🌱 **Aprendendo mais sobre:** Machine Learning e análise de grandes volumes de dados.  
+Sou **Allyson Aires**, Engenheiro de Produção e Mestrando na **UFRN**, com foco em **Ciência de Dados**, **Pesquisa Operacional** e **Automação de Processos**. No **Tribunal de Justiça do RN**, aplico técnicas de **análise de dados** e **otimização**, desenvolvendo soluções para melhorar o desempenho institucional.
+
+🔭 **Atualmente, estou focado no desenvolvimento de dashboards interativos e aplicações de ciência de dados com Python**, explorando **visualização de dados**, **automação** e **modelagem preditiva**.
+
+🌱 **Aprendizado contínuo em:** Machine Learning, Engenharia de Dados e análise de grandes volumes de dados.
 
 ---
 
-## ⚙️ **Linguagens e Tecnologias**  
+## ⚙️ Linguagens e Tecnologias que domino  
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,selenium,git,github,html,css,js,sqlite,c,cpp" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="50" alt="SQL"/>
 </div>
 
+- **Python:** Análise de dados, automação, machine learning  
+- **Selenium:** Web scraping e automação de navegação  
+- **SQL:** Consultas e manipulação de dados  
+- **Power BI:** Dashboards e visualizações interativas  
+- **Git & GitHub:** Controle de versão  
+- **HTML, CSS e JavaScript:** Integração web para projetos de scraping e visualização  
+- **C e C++:** Fundamentos acadêmicos em algoritmos e lógica
+
 ---
 
-## 🏆 **Portfólio**
-🔹 **Acesse meu portfólio pessoal:**  
+## 🏆 Meu Portfólio de Projetos  
+
+🔎 Confira exemplos reais dos meus trabalhos em **Ciência de Dados**, **Automação de Processos** e **Dashboards Interativos**:
+
 <div align="center">
   <a href="https://trojanorte.github.io/allysonaires.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/-PORTFOLIO-0078D4?style=for-the-badge&logo=github&logoColor=white" />
@@ -33,7 +46,7 @@ Me chamo **Allyson Aires**, sou Engenheiro de Produção e Mestrando pela **UFRN
 
 ---
 
-## 📬 **Conecte-se Comigo**  
+## 📬 Conecte-se Comigo  
 
 <div align="center">
   <a href="mailto:allysonaires@gmail.com">
