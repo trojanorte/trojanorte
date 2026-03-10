@@ -2,7 +2,7 @@
 
 🚀 **Engenheiro de Produção | Ciência de Dados | Pesquisa Operacional | Sistemas de IA**  
 📊 **Análise de Dados | Otimização de Processos | Automação | Web Scraping**  
-📍 **Aberto a oportunidades em Ciência de Dados, Engenharia de Dados e IA**
+📍 **Aberto a oportunidades em Ciência de Dados, Engenharia de IA e Engenheiro de produção**
 
 ---
 
