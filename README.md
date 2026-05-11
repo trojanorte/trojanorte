@@ -1,88 +1,107 @@
-# 👋 Olá! Eu sou Allyson Aires 
+# 👋 Olá! Eu sou Allyson Aires
 
-🚀 **Engenheiro de Produção | Ciência de Dados | Pesquisa Operacional | Sistemas de IA**  
-📊 **Análise de Dados | Otimização de Processos | Automação | Web Scraping**  
-📍 **Aberto a oportunidades em Ciência de Dados, Engenharia de IA e Engenheiro de produção**
-
----
-
-## 🚀 Sobre Mim  
-
-Sou **Allyson Aires**, Engenheiro de Produção e **Mestrando na UFRN**, com foco em **Ciência de Dados**, **Pesquisa Operacional** e **modelagem de problemas complexos de decisão**.
-
-Tenho interesse em desenvolver soluções baseadas em **dados, algoritmos e inteligência artificial**, aplicando técnicas de **análise de dados, otimização e modelagem matemática** para apoiar **tomada de decisão em sistemas complexos**.
-
-🔭 Atualmente desenvolvo projetos com **Python**, incluindo:
-
-- análise e visualização de dados  
-- automação de processos  
-- modelagem de dados  
-- aplicações de **IA e sistemas RAG (Retrieval-Augmented Generation)**  
-
-🌱 **Aprendizado contínuo em:**
-
-- Machine Learning  
-- Engenharia de Dados  
-- Sistemas de IA  
-- **Pesquisa Operacional aplicada à modelagem de decisões complexas**  
-- Análise de grandes volumes de dados  
+🎓 Engenheiro de Produção | Mestrando na UFRN  
+📊 Ciência de Dados | Pesquisa Operacional | Sistemas de IA  
+🤖 Python | Machine Learning | RAG | Automação | Dashboards  
+📍 Aberto a oportunidades em Ciência de Dados, Engenharia de IA e Engenharia de Produção
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas  
+## 🚀 Sobre Mim
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,git,github,html,css,js,sqlite,c,cpp" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="50" alt="SQL"/>
-</div>
+Sou Allyson Aires, Engenheiro de Produção e Mestrando na UFRN, com foco em Ciência de Dados, Pesquisa Operacional e modelagem de problemas complexos de decisão.
 
-### 🧠 Ciência de Dados
-- **Python:** análise de dados, automação e machine learning  
-- **SQL:** consultas e manipulação de dados  
-- **Power BI:** dashboards e visualizações interativas  
-
-### 🌍 Geoprocessamento
-- **QGIS:** análise espacial, mapas temáticos e análise territorial de dados  
-
-### 🔎 Automação e Coleta de Dados
-- **Selenium:** web scraping e automação de navegação  
-- **Python:** automação de processos e pipelines de dados  
-
-### 🤖 Inteligência Artificial
-- **Machine Learning:** modelagem preditiva  
-- **RAG Systems:** sistemas de busca semântica com LLM  
-
-### 💻 Desenvolvimento
-- **Git & GitHub:** controle de versão  
-- **HTML, CSS e JavaScript:** integração web para projetos de scraping e visualização  
-
-### ⚙️ Base Computacional
-- **C e C++:** fundamentos acadêmicos em algoritmos e lógica  
+Atuo no desenvolvimento de soluções baseadas em dados, algoritmos e inteligência artificial, aplicando análise de dados, otimização, automação e modelagem matemática para apoiar a tomada de decisão em sistemas complexos.
 
 ---
 
-## 📂 Projetos em Destaque  
+## 🧩 Áreas de Atuação
+
+- Ciência de Dados aplicada à tomada de decisão
+- Pesquisa Operacional e modelagem matemática
+- Sistemas de IA e aplicações com RAG
+- Automação de processos com Python
+- Web scraping e coleta estruturada de dados
+- Dashboards e visualização de dados
+- Geoprocessamento e análise territorial com QGIS
+
+---
+
+## ⚙️ Stack Técnica
+
+### Linguagens e Desenvolvimento
+Python · SQL · C · C++ · HTML · CSS · JavaScript
+
+### Ciência de Dados
+Pandas · NumPy · Scikit-learn · Matplotlib · Plotly · Power BI
+
+### Inteligência Artificial
+Machine Learning · RAG · Embeddings · LLMs · FAISS · Ollama
+
+### Automação e Dados
+Selenium · Web Scraping · SQLite · Git · GitHub
+
+### Geoprocessamento
+QGIS · Análise Espacial · Mapas Temáticos
+
+---
+
+## 📂 Projetos em Destaque
 
 ### 📚 RAG Jurídico — Convenções Coletivas
 
-Sistema de **Retrieval-Augmented Generation (RAG)** aplicado à análise de **Convenções Coletivas de Trabalho**.
+Sistema de Retrieval-Augmented Generation aplicado à análise de Convenções Coletivas de Trabalho.
 
-Tecnologias utilizadas:
+**Problema:** documentos jurídicos trabalhistas possuem grande volume textual e exigem busca precisa por cláusulas específicas.
 
-- FAISS (vector search)
+**Solução:** desenvolvimento de um sistema com busca semântica, recuperação de trechos relevantes e geração de respostas fundamentadas.
+
+**Tecnologias utilizadas:**
+
+- Python
+- FAISS
 - Embeddings MiniLM
 - LLM local com Ollama
 - Streamlit
 - SQLite para observabilidade
 
-O sistema permite realizar **busca semântica em documentos jurídicos** e gerar respostas fundamentadas nas cláusulas encontradas.
+**Funcionalidades:**
+
+- Busca semântica em documentos jurídicos
+- Recuperação de cláusulas relevantes
+- Geração de respostas com base nas fontes recuperadas
+- Interface interativa em Streamlit
+- Registro de consultas para observabilidade
 
 ---
 
-## 🏆 Meu Portfólio de Projetos  
+## 🧩 Projetos por Competência
 
-🔎 Confira exemplos reais dos meus trabalhos em **Ciência de Dados**, **Automação de Processos**, **Geoprocessamento** e **Dashboards Interativos**:
+| Área | Projeto | Tecnologias |
+|---|---|---|
+| IA aplicada | RAG Jurídico para Convenções Coletivas | Python, FAISS, LLM, Streamlit |
+| Ciência de Dados | Dashboard de Turismo no Nordeste | Python, Pandas, Plotly |
+| Geoprocessamento | Análise territorial com QGIS | QGIS, dados públicos, mapas temáticos |
+| Automação | Web scraping e coleta de dados | Python, Selenium, SQL |
+| Pesquisa Operacional | Modelagem multicritério e apoio à decisão | MCDA, FiTradeoff, otimização |
+
+---
+
+## 🏅 Certificações e Formação Complementar
+
+<div align="center">
+
+  <a href="LINK_DO_COMPROVANTE" target="_blank">
+    <img src="URL_DA_BADGE" height="105"/>
+  </a>
+
+</div>
+
+---
+
+## 🏆 Portfólio
+
+Confira exemplos reais dos meus trabalhos em Ciência de Dados, Automação de Processos, Geoprocessamento e Dashboards Interativos:
 
 <div align="center">
   <a href="https://trojanorte.github.io/allysonaires.github.io/" target="_blank">
@@ -92,24 +111,24 @@ O sistema permite realizar **busca semântica em documentos jurídicos** e gerar
 
 ---
 
-## 📑 Produção Científica  
+## 📑 Produção Científica
 
-Também desenvolvo pesquisas em **Pesquisa Operacional, análise de dados e apoio à decisão**.
+Desenvolvo pesquisas em Pesquisa Operacional, análise de dados e apoio à decisão.
 
-Temas abordados em meus trabalhos:
+Temas de interesse:
 
-- decisão multicritério (MCDA / FiTradeoff)
-- modelagem de problemas econômicos
-- análise de eficiência e gestão pública
-- análise de dados em saúde pública
+- Decisão multicritério
+- Modelagem de problemas econômicos
+- Análise de eficiência e gestão pública
+- Análise de dados em saúde pública
+- Pesquisa Operacional aplicada à decisão
 
-📚 Perfil acadêmico:
-
+📚 ResearchGate:  
 https://www.researchgate.net/profile/Allyson-Aires
 
 ---
 
-## 📬 Conecte-se Comigo  
+## 📬 Conecte-se Comigo
 
 <div align="center">
   <a href="mailto:allysonaires@gmail.com">
